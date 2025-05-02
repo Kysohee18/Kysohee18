@@ -9,7 +9,7 @@ hello, im CompSci student
 * 🌍  I'm based in indonesia
 * ✉️  You can contact me at [hanashahky@gmail.com](mailto:hanashahky@gmail.com)
 * 🧠  I'm learning im learning cs for my college
-* ⚡  im not iron man
+
 
 ### Skills
 
