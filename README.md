@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is shahky yandhana
 =======================================================================================================================================
 
-Tech Enthusiast
+fake tech enthusiast
 ---------------
 
 hello, im CompSci student
 
-* 🌍  I'm based in indonesia
-* 🧠  I'm learning im learning cs for my college
+* 🧠  I'm learning im learning cs for my college and just for get good grade
 
 
 ### Skills
