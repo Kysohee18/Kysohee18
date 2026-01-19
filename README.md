@@ -15,12 +15,8 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kysohee18&theme=discord_old_blurple&hide_border=false) 
 <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=kysohee18&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kysohee18&theme=tokyonight" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=kysohee18&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
