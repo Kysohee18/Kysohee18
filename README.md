@@ -13,8 +13,7 @@
 <div align="center">
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=kysohee18&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kysohee18&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=kysohee18&theme=discord_old_blurple&hide_border=false)*![](https://github-readme-stats.vercel.app/api/top-langs/?username=kysohee18&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kysohee18&theme=tokyonight" height="180em" />
