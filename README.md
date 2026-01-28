@@ -16,7 +16,7 @@
 
 
 
-# 📊 GitHub Stats:
+
 
 <div align="center">
 
@@ -24,4 +24,4 @@
 
 
 
-![Kysohee18's Stats](https://github-readme-stats.vercel.app/api?username=Kysohee18&theme=default&show_icons=true&hide_border=true&count_private=false)
+<div align ="left"> ![Kysohee18's Stats](https://github-readme-stats.vercel.app/api?username=Kysohee18&theme=default&show_icons=true&hide_border=true&count_private=false) </div>
