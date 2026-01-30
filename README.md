@@ -19,21 +19,9 @@
   <br>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kysohee18&theme=swift&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kysohee18&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-  </p>
-  
-  <p>
     <img src="https://streak-stats.demolab.com?user=Kysohee18&theme=swift&hide_border=true" alt="Streak Stats" />
   </p>
 
-  <hr>
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Kysohee18&icon=0&color=0" alt="Visitor Count" />
-  </a>
 
 </div>
