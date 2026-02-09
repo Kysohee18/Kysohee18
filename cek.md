@@ -3,7 +3,7 @@
 <p>
   I am an <b>Information Technology Student</b> with a burning passion for <b>Software Engineering</b> and <b>Web Development</b>.
 </p>
-
+<h1>
 <p>
   Currently, I am deep-diving into the <b>Laravel</b> and <b>MERN</b> ecosystems to build scalable applications, while also sharpening my logic through competitive programming. I love sharing knowledge and creating value for the community.
 </p>
