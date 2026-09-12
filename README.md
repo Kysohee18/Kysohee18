@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Visual Khas Phantom Thieves -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d90429&height=180&section=header&text=TAKE%20YOUR%20HEART&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=The%20Phantom%20Thieves%20of%20Open%20Source&descFontSize=16&descColor=1a1a1a&descAlignY=65" width="100%" alt="Header" />
+<!-- Minimalist Crimson Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&stroke=8b0000&strokeWidth=2&height=140&section=header&text=COGNITIVE%20RECONNAISSANCE&fontSize=32&fontColor=f5f5f5&fontAlignY=45&desc=Operating%20beneath%20the%20surface.%20Reconstructing%20distorted%20architectures.&descFontSize=13&descColor=8b0000&descAlignY=68" width="100%" alt="Header" />
 
 </div>
 
@@ -11,7 +11,7 @@ OS: .................................................... Windows 11, Linux
 Uptime: ................................................ 2 years, 5 months
 Host: .................................................. Unknown
 Now Playing: ........................................... Blank Space - Taylor Swift
-Metaverse Route: ....................................... Infiltration in Progress
-Alert Level: ........................................... 99% (Security Breached)
-Calling Card Status: ................................... Sent
+Status: ................................................ Mask Engaged
+Directive: ............................................. Purging Technical Debt
+Alert Level: ........................................... Low (Undetected)
 ------------------------------------------------------------------------
